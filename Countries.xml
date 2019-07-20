@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Countries>
+    <CountryWrapper>
+        <Country CRank="25">
+            <CName>中国</CName>
+            <CCapital>北京</CCapital>
+            <CPopulation>1400000000</CPopulation>
+            <CFoundationTime>1949-10-01</CFoundationTime>
+        </Country>
+        <Country CRank="11">
+            <CName>United States of America</CName>
+            <CCapital>new York</CCapital>
+            <CPopulation>300000000</CPopulation>
+            <CFoundationTime>1776-07-04</CFoundationTime>
+        </Country>
+    </CountryWrapper>
+</Countries>
